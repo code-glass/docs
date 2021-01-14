@@ -4,9 +4,9 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to CodeGlass
 
-This is a starter template for a docsy jekyll theme.
+This is the best debug tool ever.
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 

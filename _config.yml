@@ -28,8 +28,8 @@ url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/code-glass/docs"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+github_user: "code-glass"
+github_repo: "docs"
 
 # Optional
 twitter: code-glass

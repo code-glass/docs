@@ -3,7 +3,7 @@ title: Getting Started
 tags: 
  - jekyll
  - github
-description: Getting started with Docsy Jekyll
+description: Getting started with CodeGlass
 ---
 
 # Getting Started
