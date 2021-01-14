@@ -8,7 +8,7 @@ permalink: /
 
 This is the best debug tool ever.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![assets/img/screen1.png](assets/img/screen1.png)
 
 ## Purpose
 
